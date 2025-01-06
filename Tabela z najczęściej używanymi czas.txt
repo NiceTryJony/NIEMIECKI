@@ -1,0 +1,32 @@
+Tabela z najczęściej używanymi czasownikami nieregularnymi w języku niemieckim w formie przeszłej (Perfekt i Präteritum):  
+
+|   Infinitiv (bezokolicznik)   | Präteritum (czas przeszły prosty)   | Partizip II (używany w Perfekt)     | Tłumaczenie          |
+|-------------------------------|-------------------------------------|-------------------------------------|----------------------|
+| sein                          | war                                 | gewesen                             | być                  |
+| haben                         | hatte                               | gehabt                              | mieć                 |
+| werden                        | wurde                               | geworden                            | stawać się           |
+| gehen                         | ging                                | gegangen                            | iść                  |
+| kommen                        | kam                                 | gekommen                            | przychodzić          |
+| essen                         | aß                                  | gegessen                            | jeść                 |
+| trinken                       | trank                               | getrunken                           | pić                  |
+| fahren                        | fuhr                                | gefahren                            | jechać               |
+| lesen                         | las                                 | gelesen                             | czytać               |
+| sehen                         | sah                                 | gesehen                             | widzieć              |
+| schreiben                     | schrieb                             | geschrieben                         | pisać                |
+| nehmen                        | nahm                                | genommen                            | brać                 |
+| sprechen                      | sprach                              | gesprochen                          | mówić                |
+| finden                        | fand                                | gefunden                            | znajdować            |
+| geben                         | gab                                 | gegeben                             | dawać                |
+| schlafen                      | schlief                             | geschlafen                          | spać                 |
+| laufen                        | lief                                | gelaufen                            | biec                 |
+| bleiben                       | blieb                               | geblieben                           | zostawać             |
+| denken                        | dachte                              | gedacht                             | myśleć               |
+| bringen                       | brachte                             | gebracht                            | przynosić            |
+
+### Przydatne wskazówki:
+1. Perfekt: Tworzy się za pomocą czasownika posiłkowego *haben* lub *sein* oraz *Partizip II*.
+   - Przykład: Ich *bin gegangen* (Poszedłem).
+2. Präteritum: Jest używany głównie w tekstach pisanych, takich jak literatura czy gazety.  
+   - Przykład: Ich *ging* (Poszedłem).
+
+Jeśli potrzebujesz jeszcze więcej czasowników lub dodatkowych wskazówek, daj znać! 😊
